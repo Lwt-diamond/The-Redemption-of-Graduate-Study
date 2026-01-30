@@ -1,5 +1,5 @@
 
-# 📖 The Redemption of Graduate Study (读研救赎)
+# 📖 The Redemption of Graduate Study (读研的救赎)
 
 > **⚠️ WARNING / 警告**
 >
