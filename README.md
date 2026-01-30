@@ -9,11 +9,27 @@
 >
 > *这就好比余华笔下的福贵，他牵着一头叫“福贵”的老牛；而我牵着一台只有 11G 显存的 2080Ti。*
 > *如有雷同，纯属算法过拟合（Overfitting）。请勿代入现实。*
+>
+> **【本仓库内容仅用于学习交流，请勿用于商业用途】**
+>
+
+
 
 ![Genre](https://img.shields.io/badge/Genre-Magical%20Realism-orange)
 ![Mood](https://img.shields.io/badge/Mood-YuHua%20Style-black)
 ![Status](https://img.shields.io/badge/Character-Alive-green)
 ![System](https://img.shields.io/badge/Error-Strong%20Reject-red)
+
+## 📝 项目简介 (Project Introduction)
+
+journal 文件夹： 记录了主角在 405 实验室度过的 2.5 年。
+
+QA_lists 文件夹： 使用LLM进行回答问题。
+
+resources 文件夹： 一些杂七杂八的文件。
+
+
+
 
 ## 📜 故事梗概 (Story Synopsis)
 
@@ -47,7 +63,7 @@
 故事始于一场暴雨。主角拖着行李站在 **VIP 宿舍** 前，那一刻，他意识到所有的雄心壮志都将被这“一滩死水”淹没。这不是《许三观卖血记》，但主角却在用一种类似的方式——**“卖肝”**，试图换取一个名为 **SOTA** 的虚幻结果 [8][9]。
 
 ### 第二幕：西西弗斯的显卡
-主角拥有一块虚拟的 **NVIDIA 2080Ti (11G)**。他试图复现一篇论文，但系统只会冷冷地回复：`CUDA out of memory`。
+主角拥有一块虚拟??。他试图复现一篇论文，但系统只会冷冷地回复：`CUDA out of memory`。
 这是一种荒诞的循环：
 > "没钱，没钱你怎么搞科研啊？" [10][11]
 他像西西弗斯推石头一样，每天把代码从服务器 A 搬到服务器 B，也就是文中提到的**“无限递归的汉诺塔”** [11]。
